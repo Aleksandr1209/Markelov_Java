@@ -10,7 +10,6 @@ public class Exercise2 {
         System.out.println("Введите вторую строку (b):");
         String b = scanner.nextLine();
 
-        // Сравнение строк
         if (a.equals(b)) {
             System.out.println("Строки идентичны");
         } else {
